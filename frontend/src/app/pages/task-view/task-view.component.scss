@@ -1,9 +1,9 @@
-@import '../../../main-style.scss';
+@import '../../../main-styles.scss';
 
 .task-manager-container {
     display: flex;
-    width: 90%;
-    height: 80%;
+    width: 100%;
+    height: 100%;
     max-width: 1000px;
     max-height: 680px;
 }
@@ -131,3 +131,4 @@
     color: #777;
     text-align: center;
 }
+
